@@ -1,4 +1,4 @@
-# Python-Projects
+# freecodecamp Python-Projects
 Python projects for data analyst using the following libraries:
 1. Pandas
 2. Numpy
